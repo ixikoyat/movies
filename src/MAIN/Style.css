@@ -1,0 +1,30 @@
+.mainCard{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.leftCard{
+    width: 20%;
+}
+.leftPostion{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 20%;
+    background-color: aqua;
+}
+.centerCard{
+    width: 50%;
+}
+
+.rightCard{
+    width: 30%;
+}
+
+.positionRight{
+    position: fixed;
+    right: 0;
+    top: 0;
+    width: 30%;
+    background-color: green;
+}
